@@ -1,0 +1,1 @@
+Using C code on a FRDM kl46z microcontroller, implemented a PID controller in order to ensure a robot could maintain a constant speed over multiple surfaces. Used different interrupts for things such as switches and timers in order to implement other functionalities of the program.  
